@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fairplaay/static/css/main.ebef639e.chunk.css",
+    "main.js": "/fairplaay/static/js/main.e2e915b4.chunk.js",
+    "main.js.map": "/fairplaay/static/js/main.e2e915b4.chunk.js.map",
+    "runtime-main.js": "/fairplaay/static/js/runtime-main.7c959fca.js",
+    "runtime-main.js.map": "/fairplaay/static/js/runtime-main.7c959fca.js.map",
+    "static/js/2.f117b7e9.chunk.js": "/fairplaay/static/js/2.f117b7e9.chunk.js",
+    "static/js/2.f117b7e9.chunk.js.map": "/fairplaay/static/js/2.f117b7e9.chunk.js.map",
+    "index.html": "/fairplaay/index.html",
+    "precache-manifest.44ebc257ba6d81271c30facc5ce4c4ce.js": "/fairplaay/precache-manifest.44ebc257ba6d81271c30facc5ce4c4ce.js",
+    "service-worker.js": "/fairplaay/service-worker.js",
+    "static/css/main.ebef639e.chunk.css.map": "/fairplaay/static/css/main.ebef639e.chunk.css.map",
+    "static/js/2.f117b7e9.chunk.js.LICENSE": "/fairplaay/static/js/2.f117b7e9.chunk.js.LICENSE",
+    "static/media/fork.svg": "/fairplaay/static/media/fork.c6aaf6ba.svg",
+    "static/media/fonts.css": "/fairplaay/static/media/roboto-v18-latin-regular.bafb105b.woff",
+    "static/media/star.svg": "/fairplaay/static/media/star.fd15fe26.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c959fca.js",
+    "static/js/2.f117b7e9.chunk.js",
+    "static/css/main.ebef639e.chunk.css",
+    "static/js/main.e2e915b4.chunk.js"
+  ]
+}
